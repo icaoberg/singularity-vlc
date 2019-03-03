@@ -1,7 +1,5 @@
 # singularity-vlc
 
-![VLC](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/800px-VLC_Icon.svg.png)
-
 ## About
 Singularity recipe for [VLC](https://www.videolan.org/vlc/index.html).
 
