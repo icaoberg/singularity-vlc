@@ -12,10 +12,8 @@ IncludeCmd: yes
     exec /bin/bash "$@"
 
 %post
-    echo "Update and upgrade"
-    apt-get update && apt-get install -y --no-install-recommends apt-utils
     echo "Install VLC"
-    apt-get install -y vlc
+    apt-get update && apt-get install -y vlc
 
 ####################################################################################
 %appenv vlc
