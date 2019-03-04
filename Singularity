@@ -15,6 +15,12 @@ IncludeCmd: yes
     echo "Install VLC"
     apt-get update && apt-get install -y vlc
 
+    mkdir /scratch
+    mkdir /share
+    mkdir /images
+    mkdir /projects
+    mkdir /containers
+
 ####################################################################################
 %appenv vlc
     APP=/usr/bin/vlc
