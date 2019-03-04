@@ -12,7 +12,7 @@ if [ ! -d ~/bin ]; then
 fi
 
 if [ ! -f $DIRECTORY/$(echo $IMAGE | cut -d"-" -f2).simg ]; then
-	singularity pull --name $(echo $IMAGE | cut -d"-" -f2).simg shub://icaoberg/$IMAGE
+	bash ./build.sh
 	mv -v $(echo $IMAGE | cut -d"-" -f2).simg $DIRECTORY
 fi
 
