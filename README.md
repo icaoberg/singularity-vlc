@@ -28,6 +28,9 @@ singularity run --app vlc singularity-vlc.simg tommy_torres-querido_tommy.mp4
 ![VLC](images/singularity-vlc.gif)
 
 ## Disclaimer
+
+[![Wold you buy me some coffee?](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/icaoberg)
+
 I am nothing but a humble programmer creating the container for this wonderful app. 
 
 ---
