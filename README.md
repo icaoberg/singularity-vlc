@@ -7,6 +7,9 @@
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
 ## About
+
+![Logo](./images/logo.png)
+
 Singularity recipe for [VLC](https://www.videolan.org/vlc/index.html).
 
 ## Pre-requisites
