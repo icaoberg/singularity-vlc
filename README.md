@@ -3,15 +3,13 @@
 ## About
 Singularity recipe for [VLC](https://www.videolan.org/vlc/index.html).
 
+## Pre-requisites
+
+* [Singularity v3.5.+](https://sylabs.io/docs/).
+
 ## Building the container
 ```
-bash ./run.sh
-```
-
-## List app(s)
-```
-singularity apps vlc.simg
-vlc
+bash ./build.sh
 ```
 
 ## Get help!
@@ -36,4 +34,4 @@ I am nothing but a humble programmer creating the container for this wonderful a
 ---
 [![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
 
-Copyleft © 2019 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Computational Biology Department](http://www.cbd.cmu.edu) in [Carnegie Mellon University](http://www.cmu.edu)
+Copyleft © 2019-2020 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Computational Biology Department](http://www.cbd.cmu.edu) in [Carnegie Mellon University](http://www.cmu.edu)
