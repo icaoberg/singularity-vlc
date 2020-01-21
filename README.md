@@ -1,4 +1,10 @@
 # singularity-vlc
+[![SyLabs.io](https://img.shields.io/badge/hosted-SyLabs.io-green.svg)](https://cloud.sylabs.io/library/icaoberg/default/vlc)
+[![Build Status](https://travis-ci.org/icaoberg/singularity-vlc.svg?branch=master)](https://travis-ci.org/icaoberg/singularity-vlc)
+[![GitHub issues](https://img.shields.io/github/issues/icaoberg/singularity-vlc.svg)](https://github.com/icaoberg/singularity-vlc/issues)
+[![GitHub forks](https://img.shields.io/github/forks/icaoberg/singularity-vlc.svg)](https://github.com/icaoberg/singularity-vlc/network)
+[![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-vlc.svg)](https://github.com/icaoberg/singularity-vlc/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
 ## About
 Singularity recipe for [VLC](https://www.videolan.org/vlc/index.html).
